@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Symulator pieca grzewczego</string>
+    <string name="start">Start/Stop</string>
+    <string name="temp">Temperatura:</string>
+    <string name="praca">Tryb pracy:</string>
+    <string name="wyda">Wydajność</string>
+    <string name="norm">Zrównoważony</string>
+    <string name="oszcz">Oszczędność</string>
+    <string name="weg">Ilość węgla na godzinę:</string>
+    <string name="went">Prędkość wentylatorów:</string>
+    <string name="moc">Moc zakumulowana w piecu:</string>
+    <string name="ene">Ilość pobieranej mocy na godzine:</string>
+    <string name="ref">Odśwież</string>
+    <string name="koniec">Wyłączony</string>
+</resources>
+
